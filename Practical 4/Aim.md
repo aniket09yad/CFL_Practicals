@@ -1,0 +1,1 @@
+# Write a python script to search for a particular word in a file
